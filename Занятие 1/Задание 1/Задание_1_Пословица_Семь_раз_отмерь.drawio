@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="_PCteJRkYMyGaRHYFTlu">
+    <mxGraphModel dx="772" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Начало" vertex="1">
+          <mxGeometry height="60" width="100" x="380" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-2" edge="1" parent="1" source="yljXH2gPk6vWUsYwJKOW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="530" as="sourcePoint" />
+            <mxPoint x="430.0000000000001" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430.0000000000001" y="540" as="sourcePoint" />
+            <mxPoint x="430.0000000000001" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-4" edge="1" parent="1" source="yljXH2gPk6vWUsYwJKOW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="yljXH2gPk6vWUsYwJKOW-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480.0000000000001" y="610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-5" edge="1" parent="1" source="yljXH2gPk6vWUsYwJKOW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yljXH2gPk6vWUsYwJKOW-9">
+          <mxGeometry relative="1" x="-0.2857" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="660" />
+              <mxPoint x="350" y="660" />
+              <mxPoint x="350" y="520" />
+            </Array>
+            <mxPoint x="430.0000000000001" y="640" as="sourcePoint" />
+            <mxPoint x="370" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Отрезать" vertex="1">
+          <mxGeometry height="50" width="100" x="500" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Конец" vertex="1">
+          <mxGeometry height="60" width="100" x="500" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-8" edge="1" parent="1" source="yljXH2gPk6vWUsYwJKOW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="yljXH2gPk6vWUsYwJKOW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-9" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;labelPosition=center;" value="i := 1, 7, 1&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="100" x="380" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="yljXH2gPk6vWUsYwJKOW-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Отмерить" vertex="1">
+          <mxGeometry height="50" width="100" x="380" y="580" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

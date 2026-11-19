@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="BI5O-zeA_PRR1UHlJ8WX">
+    <mxGraphModel dx="2054" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3yTFUMH3kPSERKmadSUn-3" edge="1" parent="1" source="3yTFUMH3kPSERKmadSUn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="3yTFUMH3kPSERKmadSUn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Начало" vertex="1">
+          <mxGeometry height="50" width="100" x="364" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-5" edge="1" parent="1" source="3yTFUMH3kPSERKmadSUn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="3yTFUMH3kPSERKmadSUn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Составить список дел" vertex="1">
+          <mxGeometry height="50" width="150" x="339" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-7" edge="1" parent="1" source="3yTFUMH3kPSERKmadSUn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="3yTFUMH3kPSERKmadSUn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Выбрать очередное дело" vertex="1">
+          <mxGeometry height="50" width="150" x="339" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Выполнить дело" vertex="1">
+          <mxGeometry height="50" width="150" x="339" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-12" edge="1" parent="1" source="3yTFUMH3kPSERKmadSUn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontSize=14;fontFamily=Times New Roman;" target="3yTFUMH3kPSERKmadSUn-11" value="Да">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-13" edge="1" parent="1" source="3yTFUMH3kPSERKmadSUn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontSize=14;fontFamily=Times New Roman;" target="3yTFUMH3kPSERKmadSUn-4" value="Нет">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="610" />
+              <mxPoint x="509" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Все дела выполнены?" vertex="1">
+          <mxGeometry height="80" width="150" x="339" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-9" edge="1" parent="1" source="3yTFUMH3kPSERKmadSUn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="3yTFUMH3kPSERKmadSUn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Начать отдыхать" vertex="1">
+          <mxGeometry height="50" width="150" x="200" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Конец" vertex="1">
+          <mxGeometry height="50" width="100" x="225" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="3yTFUMH3kPSERKmadSUn-15" edge="1" parent="1" source="3yTFUMH3kPSERKmadSUn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="3yTFUMH3kPSERKmadSUn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
