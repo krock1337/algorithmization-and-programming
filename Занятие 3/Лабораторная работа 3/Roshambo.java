@@ -26,7 +26,6 @@ public class Roshambo {
 
                 default -> {
                     System.out.println("Некорректный выбор!");
-                    scanner.close();
                     return;
                 }
             }
